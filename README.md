@@ -1,5 +1,3 @@
-# DiskConverter
-TechyRich Disk Converter is a user-friendly graphical interface (GUI) wrapper for the powerful qemu-img utility.
 ________________________________________
 Introducing TechyRich Disk Converter
 
@@ -34,8 +32,6 @@ Download
 You can download TechyRich Disk Converter as a standalone executable (.exe) for Windows or as a .zip archive containing all necessary files.
 ●	Download the latest .exe
 ●	Download the latest .zip
-(Remember to replace LINK_TO_YOUR_EXE and LINK_TO_YOUR_ZIP with actual download links once you host your releases on GitHub.)
-
 How to Use
 
 1.	Download and Unzip: Download the .zip or .exe file and extract its contents to a convenient location on your computer.
@@ -77,5 +73,5 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+________________________________________
 
