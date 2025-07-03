@@ -10,6 +10,7 @@ This tool eliminates the need for command-line expertise, allowing you to effort
 Key Features
 
 ●	Simple GUI: No more memorizing qemu-img commands. Our intuitive interface guides you through the conversion process.
+
 ●	Broad Format Support: Convert between popular VM disk formats, including:
 ○	.vmdk (VMware)
 ○	.vdi (VirtualBox)
@@ -17,6 +18,8 @@ Key Features
 ○	.qcow2 (QEMU)
 ○	And more, as supported by qemu-img!
 ●	Easy Selection: Point and click to select your source disk and choose your desired output format and location.
+ Option to check Output file on completion
+ Option to check output file info 
 ●	Error Handling: Provides feedback on the conversion process.
 ●	Lightweight & Portable: Designed to be easy to download and run.
 
